@@ -1,0 +1,6 @@
+{
+  "name": "NutriBudget",
+  "description": "Budget-optimized 7-day meal planner, local grocery price manager, and AI-assisted recipe generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
